@@ -1,6 +1,0 @@
-{
-  "name": "プレパパ手帳",
-  "description": "パパになる25歳男性のための、お腹の赤ちゃんと奥様に寄り添う愛情たっぷりのサポート手帳。正確な医学解説とタスク管理、食事注意リスト、日記機能付き。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
